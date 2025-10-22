@@ -1,0 +1,9 @@
+# 忽略的文件夹
+__pycache__/
+out/
+build/
+backup/
+.vs/
+
+
+
